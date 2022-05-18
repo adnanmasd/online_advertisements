@@ -8,3 +8,5 @@ To successfully run the application, do the following steps:
 The Application should run now smothly.
 
 P.S. The workaround to send emails from localhost requires the xampp to be started as administrator. 
+
+Final Year Project
